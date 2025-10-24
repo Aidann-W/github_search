@@ -1,0 +1,59 @@
+body{
+  font-size: 36px;
+}
+
+#root{
+  max-width: 1200px;
+  text-align: left;
+}
+
+
+
+#userName{
+  margin-top:2%;
+  margin-bottom:2%;
+  display:flex;
+  align-items: center;
+  padding:5%;
+  font-size: larger;
+}
+
+#containera{
+  display:flex;
+  top: 0;
+}
+
+#button{
+  border-radius: 0;
+  border-color: black;
+  justify-content: end;
+  background-color: #4285f4;
+  background-size: auto;
+  top: 0;
+  right: 0;
+  margin: 6vh;
+  padding:2vh;
+  height:6vh;
+  width: 30vw;
+  font-size: 125%;
+  padding-bottom: 5.5%;
+  padding-left: 4%;
+  padding-right: 4%;
+  padding-top: 0.5%;
+  color: black;
+
+}
+
+#search{
+  font-size: 4.4vmin;
+  background-size: 50%;
+  margin: 5vh;
+  padding: 2vh 25vw 2vh 0;
+  width: 50vw;
+
+
+}
+
+#image{
+  padding-right: 10%;
+}
